@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Configuration files (contains sensitive data)
+config.ini
+*.ini
+!.env.example
+!config.ini.example
+
+# Office files
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+
+# PDF files
+*.pdf
+
+# Output files (generated)
+*_converted.docx
+*_translated.docx
+*_fixed.docx
+*_toc_fixed.docx
+*_final.docx
+
+# OS
+.DS_Store
+Thumbs.db

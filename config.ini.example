@@ -1,0 +1,14 @@
+[API]
+# DeepSeek API 密钥
+# 请前往 https://platform.deepseek.com/ 获取 API 密钥
+api_key=your_api_key_here
+
+# 模型选择
+# 可选：qwen-turbo, qwen-plus, qwen-max
+model=qwen-turbo
+
+# 并发线程数（根据你的 API 限额调整）
+max_workers=5
+
+# 请求超时时间（秒）
+timeout=120
