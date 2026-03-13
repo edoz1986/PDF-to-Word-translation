@@ -11,7 +11,10 @@
 ## 安装步骤
 
 1. **安装 Python**
-   - 下载并安装 Python 3.11+： https://www.python.org/downloads/
+   - 下载并安装 Python 3.11+： 
+   https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe
+   如果连接不能存在就去https://www.python.org/downloads/下载3.11版本
+   不确定其他版本的兼容性
    - 安装时勾选 "Add Python to PATH"
 
 2. **配置 API 密钥**
